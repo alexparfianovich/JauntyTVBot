@@ -1,2 +1,2 @@
 # JauntyTvBot
-Bot for Stake.com
+Bot for Stake.com written by JauntyTV (formely Jaunty90)
